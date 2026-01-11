@@ -57,17 +57,11 @@ The application monitors your hand landmarks and translates specific postures in
 
 ---
 
-## Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/PratikAxis/Gesture-Play.git
-cd Gesture-Play
-2. Install Dependencies
+### 2. Install Dependencies
 bash
 Copy code
 pip install -r requirements.txt
-How to Run the Project
+## How to Run the Project
 Start the application:
 
 bash
@@ -77,4 +71,12 @@ Open Subway Surfers in your browser or desktop game window.
 
 Position your hand clearly in front of the webcam.
 
-Use gestures to control the character in real time.
+
+---
+
+## Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/PratikAxis/Gesture-Play.git
+cd Gesture-Play
