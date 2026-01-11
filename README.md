@@ -43,6 +43,20 @@ This project highlights the use of AI-driven perception to create intuitive and 
 
 ---
 
+Control Mapping
+
+The application monitors your hand landmarks and translates specific postures into keyboard commands:
+
+| Gesture | Game Action | Keyboard Trigger |
+| :--- | :--- | :--- |
+| **Index Finger Up** | **Idle** | None (Wait State) |
+| **All Fingers Open** | **Jump** | `Up Arrow` |
+| **Fist (All Closed)** | **Roll** | `Down Arrow` |
+| **Pointing Index Left/Right** | **Move Lane** | `Left / Right Arrow` |
+
+
+---
+
 ## Installation & Setup
 
 ### 1. Clone the Repository
